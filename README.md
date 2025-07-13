@@ -28,7 +28,7 @@ Given various features describing residential homes in Ames, Iowa, the goal is t
 
 ## 🔗 Competition Link
 
-You can visit the competition's web page from [Kaggle: House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+You can visit the competition's web page from 👉 [Kaggle: House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
 ## 📝 Note
 
