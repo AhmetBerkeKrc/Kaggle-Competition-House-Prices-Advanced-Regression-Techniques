@@ -26,6 +26,10 @@ Given various features describing residential homes in Ames, Iowa, the goal is t
 > 📉 Train RMSE (log): `0.08682`  
 > 📈 Validation RMSE (log): `0.11639`
 
+## 🔗 Competition Link
+
+You can visit the competition's web page from [Kaggle: House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+
 ## 📝 Note
 
 This solution represents my initial approach to the "House Prices - Advanced Regression Techniques" project. Naturally, there are still areas that can be improved, refined,
